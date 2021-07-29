@@ -182,7 +182,7 @@ VIPER_saliency_modifier(ImageType)
 ```
 
 ## 6.5. Image Handling
-The image handlers are functions that simply the code and streamlines everything in small commands. These take the multiple functions that run the program and simplifies them for ease of use.
+The image handlers are functions that simplify the code and streamline everything in small commands. These take the multiple functions that run the program and simplifies them for ease of use.
 
 
 Runs the modifications and replaces the image in the ImageType with its result. **NOTE: image_modifier and command_line take relationship as a 3rd parameter in server.**
